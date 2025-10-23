@@ -29,7 +29,7 @@ To run the project correctly, please use a **Live Server** or a local developmen
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/moments-wine-store.git
+git clone https://github.com/victorinofdez/moments-wine-store.git
 ```
 ### 2️⃣ Open the project with Live Server
 
