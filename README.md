@@ -30,7 +30,7 @@ To run the project correctly, please use a **Live Server** or a local developmen
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/yourusername/moments-wine-store.git
-
+```
 ### 2️⃣ Open the project with Live Server
 
 It’s recommended to use the Live Server
@@ -46,4 +46,5 @@ It’s recommended to use the Live Server
 
 ## 🖼️ Preview
 
-![Preview of Moments website](images/preview.png)
+<img width="2562" height="1328" alt="image" src="https://github.com/user-attachments/assets/36e9e1da-7960-4849-82e6-c3c6d2225cc2" />
+
