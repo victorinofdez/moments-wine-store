@@ -43,3 +43,7 @@ It’s recommended to use the Live Server
 - Right-click on index.html
 
 - Select "Open with Live Server"
+
+## 🖼️ Preview
+
+![Preview of Moments website](images/preview.png)
